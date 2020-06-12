@@ -134,26 +134,5 @@ button.res{
   padding-top:6px;
   padding-bottom:6px;
   position: static;
-}
-button.res:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-.res:checked {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color:  #2196F3;
-  -webkit-transition: .4s;
-  transition: .4s;
+ 
 }
